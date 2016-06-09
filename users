@@ -1,0 +1,11 @@
+\dt
+select * from users
+select * from users;
+select * from users;
+select * from providers;
+select * from timeclock;
+select * from timeclock;
+quit
+;
+\dt
+\s users
